@@ -1,0 +1,11 @@
+﻿  CoreTempServer.cpp
+F:\CoreTempSDK\CoreTempServer\CoreTempServer\CoreTempServer.cpp(77,54): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+F:\CoreTempSDK\CoreTempServer\CoreTempServer\CoreTempServer.cpp(81,45): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+F:\CoreTempSDK\CoreTempServer\CoreTempServer\CoreTempServer.cpp(86,45): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+F:\CoreTempSDK\CoreTempServer\CoreTempServer\CoreTempServer.cpp(236,52): warning C4311: 'conversión de tipo': truncamiento de puntero de 'HANDLE' a 'long'
+F:\CoreTempSDK\CoreTempServer\CoreTempServer\CoreTempServer.cpp(236,52): warning C4302: 'conversión de tipo': truncamiento de 'HANDLE' a 'long'
+F:\CoreTempSDK\CoreTempServer\CoreTempServer\CoreTempServer.cpp(244,51): warning C4311: 'conversión de tipo': truncamiento de puntero de 'HANDLE' a 'long'
+F:\CoreTempSDK\CoreTempServer\CoreTempServer\CoreTempServer.cpp(244,51): warning C4302: 'conversión de tipo': truncamiento de 'HANDLE' a 'long'
+F:\CoreTempSDK\CoreTempServer\CoreTempServer\CoreTempServer.cpp(251,51): warning C4311: 'conversión de tipo': truncamiento de puntero de 'HANDLE' a 'long'
+F:\CoreTempSDK\CoreTempServer\CoreTempServer\CoreTempServer.cpp(251,51): warning C4302: 'conversión de tipo': truncamiento de 'HANDLE' a 'long'
+  CoreTempServer.vcxproj -> F:\CoreTempSDK\CoreTempServer\CoreTempServer\x64\Debug\CoreTempServer.dll

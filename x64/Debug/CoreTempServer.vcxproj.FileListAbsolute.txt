@@ -1,0 +1,2 @@
+F:\CoreTempSDK\CoreTempServer\CoreTempServer\x64\Debug\CoreTempServer.dll
+F:\CoreTempSDK\CoreTempServer\CoreTempServer\x64\Debug\CoreTempServer.pdb
